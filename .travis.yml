@@ -54,5 +54,6 @@ branches:
     - staging
     - trying
     - master
+    - fix-bootstrap
 notifications:
   email: false
